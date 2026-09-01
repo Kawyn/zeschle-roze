@@ -25,4 +25,4 @@ Jeśli znalazłeś literówkę, coś w składni nie gra, lub po prostu chcesz do
 
 ## Kontakt 
 
-Z pytaniami lub większymi sprawami, zachęcam do kontaktu przez mejla (aktualnie tego z profilu) lub discorda ([kawyn](discord.com/users/360468756125712416)).
+Z pytaniami lub większymi sprawami, zachęcam do kontaktu przez mejla (aktualnie tego z profilu) lub discorda ([kawyn](https://www.discord.com/users/360468756125712416)).
