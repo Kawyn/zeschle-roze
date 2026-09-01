@@ -1,0 +1,37 @@
+\documentclass[12pt,twoside, openright]{book}
+
+\usepackage[a4paper, marginparwidth=75pt]{geometry}
+\input{style}
+
+\begin{document}
+
+
+\pagestyle{plain}
+\input{chapters/__title}
+
+\cleardoublepage
+
+\setcounter{page}{1}
+
+\pagestyle{plain}
+\input{chapters/_info}
+
+\cleardoublepage
+
+\pagestyle{plain}
+\tableofcontents
+
+\cleardoublepage
+
+\phantomsection
+
+\pagestyle{plain}
+\input{chapters/_preface}
+
+\cleardoublepage
+\pagestyle{fancy}
+
+\input{chapters/chapter1}
+
+
+\end{document}
